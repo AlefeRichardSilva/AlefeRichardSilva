@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-Graduando em **Ciência da Computação pela Universidade Cidade de São Paulo (UNICID)**, com forte vocação para tecnologia e desenvolvimento de sistemas. Dedico meus estudos ao aprimoramento contínuo em **Desenvolvimento Web, Engenharia de Software e Gestão de Bancos de Dados**.
+Graduando em **Ciência da Computação pela Universidade Cidade de São Paulo (UNICID)**, com forte vocação para tecnologia e desenvolvimento de sistemas. Dedico meus estudos ao aprimoramento contínuo em **Desenvolvimento Web, ADS, DS e Gestão de Bancos de Dados**.
 
 Trago uma bagagem profissional sólida desenvolvida em cenários operacionais dinâmicos, o que me proporcionou alto senso de responsabilidade, capacidade de resolução de problemas sob pressão, organização e facilidade de adaptação. Busco minha primeira oportunidade no mercado de tecnologia para aplicar minha base teórica e prática, agregando valor a equipes de desenvolvimento e evoluindo continuamente como profissional.
 
