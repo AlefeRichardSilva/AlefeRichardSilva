@@ -1,4 +1,4 @@
-**Gradando em Ciência da Computação** | Entusiasta de Desenvolvimento de Software, Banco de Dados e Web Development
+**Graduando em Ciência da Computação** | Entusiasta de Desenvolvimento de Software, Banco de Dados e Web Development
 
 ### 📬 Contato & Links
 
